@@ -1,7 +1,8 @@
-html <!DOCTYPE html>
-<html> 
-<head> 
-<p></p>
-
-</head>
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Discover hidden places in thr world around you</h1>
+<a href="#"> Download Excursion (Comming soon) </a>
+</body>
 </html>
+
